@@ -18,6 +18,7 @@
 ### Logging
 
 - [wavelog](https://www.wavelog.org/) - Web based amateur radio logging software.
+- [CloudLogOffline](https://github.com/myzinsky/cloudLogOffline) - App frontend for wavelog and cloudlog.
 
 ### Modes
 
