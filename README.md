@@ -4,15 +4,11 @@
 
 ## Project Categories
 
-- [Modes](#modes)
 - [Firmware](#firmware)
 - [Logging](#logging)
+- [Modes](#modes)
 - [Remote Control](#remote-control)
 - [Software Defined Radio](#software-defined-radio)
-
-### Modes
-
-- [M17](https://github.com/m17-project) - M17 digital mode using Codec2 for voice.
 
 ### Firmware
 
@@ -21,6 +17,10 @@
 ### Logging
 
 - [wavelog](https://www.wavelog.org/) - Web based amateur radio logging software.
+
+### Modes
+
+- [M17](https://github.com/m17-project) - M17 digital mode using Codec2 for voice.
 
 ### Remote Control
 
