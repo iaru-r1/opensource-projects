@@ -13,3 +13,7 @@
 ### Software Defined Radio
 
 - [GNURadio](https://www.gnuradio.org/) - A software development toolkit that provides signal processing blocks to implement software radios
+
+## Contribute
+
+Contributions welcome and wanted.  Please ead the [contribution guidelines](contributing.md) first.
