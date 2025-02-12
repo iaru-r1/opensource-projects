@@ -15,7 +15,7 @@
 ### Remote Control
 
 - [trx-control](https://trx-control.msys.ch) - Transceiver control, extensible in Lua
-- 
+
 ### Software Defined Radio
 
 - [GNURadio](https://www.gnuradio.org/) - A software development toolkit that provides signal processing blocks to implement software radios
