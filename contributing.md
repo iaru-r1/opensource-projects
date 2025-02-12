@@ -9,12 +9,14 @@ Contributions from the community are welcomed and wanted.
 The following are **desirable properties** of a projects on this list:
 
 - An active maintainer and recent development.
+- 100% open source and free software.
 - Documentation, examples, and tests.
 - Hosted on GitHub (or at least somewhere reliable).
 
 What this list **doesn't need** or have much room for:
 
 - Unfinished, unmaintained, or unadopted projects.
+- Projects that are based on or require proprietary or patented technologies that are not freely available.
 - Ancient projects that haven't been touched or used in years, or that are just past their time.
 - Projects which have a strictly better alternative available.
 
