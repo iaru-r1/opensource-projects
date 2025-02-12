@@ -9,6 +9,7 @@
 - [Modes](#modes)
 - [Remote Control](#remote-control)
 - [Software Defined Radio](#software-defined-radio)
+- [Standards](#standards)
 
 ### Firmware
 
@@ -29,6 +30,10 @@
 ### Software Defined Radio
 
 - [GNURadio](https://www.gnuradio.org/) - A software development toolkit that provides signal processing blocks to implement software radios.
+
+### Standards
+
+- [SigMF: The Signal Metadata Format](https://github.com/sigmf/SigMF) - A standard to describe dataset properties of captured signals.
 
 ## Contribute
 
