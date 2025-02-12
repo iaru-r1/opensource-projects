@@ -29,6 +29,7 @@
 ### Software Defined Radio
 
 - [GNURadio](https://www.gnuradio.org/) - A software development toolkit that provides signal processing blocks to implement software radios.
+- [Maia SDR](https://maia-sdr.org) - An open-source FPGA-based SDR project focusing on the ADALM Pluto.
 
 ## Contribute
 
