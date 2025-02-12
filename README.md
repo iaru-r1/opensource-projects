@@ -12,7 +12,7 @@
 
 ### Firmware
 
-- [OpenRTX](https://openrtx.org) - Firmware for digital ham radios with M15 mode.
+- [OpenRTX](https://openrtx.org) - Firmware for digital ham radios with M17 mode.
 
 ### Logging
 
