@@ -16,4 +16,4 @@
 
 ## Contribute
 
-Contributions welcome and wanted.  Please ead the [contribution guidelines](contributing.md) first.
+Contributions welcome and wanted.  Please read the [contribution guidelines](contributing.md) first.
