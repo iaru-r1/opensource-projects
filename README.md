@@ -35,7 +35,6 @@
 - [Maia SDR](https://maia-sdr.org) - An open-source FPGA-based SDR project focusing on the ADALM Pluto.
 - [SDRPlusPlus](https://www.sdrpp.org/) - SDR++ is a cross-platform and open source SDR software with the aim of being bloat free and simple to use.
 
-
 ### Standards
 
 - [SigMF: The Signal Metadata Format](https://github.com/sigmf/SigMF) - A standard to describe dataset properties of captured signals.
