@@ -26,7 +26,7 @@
 
 ### Remote Control
 
-- [Hamlib](https://github.com/Hamlib/Hamlib) -  Ham radio control library for rigs, rotators, tuners, and amplifiers.
+- [Hamlib](https://github.com/Hamlib/Hamlib) -  Ham radio control library for rigs, rotators, tuners, and, amplifiers.
 - [trx-control](https://trx-control.msys.ch) - Transceiver control, extensible in Lua.
 
 ### Software Defined Radio
