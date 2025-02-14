@@ -21,6 +21,7 @@
 - [wavelog](https://www.wavelog.org/) - Web based amateur radio logging software.
 - [FLEcli](https://github.com/on4kjm/FLEcli) - Command line utility for processing log files in the Fast Log Entrly (FLE) format.
 - [FLE for VSCode](https://github.com/xssfox/flecode) - Syntax highliting of the Fast Log Entry format for VSCode.
+- [FLE for Vim](https://git.sdf.org/odie/vim-fle-syntax) - Syntax highliting of the Fast Log Entry format for Vim.
 
 ### Modes
 
