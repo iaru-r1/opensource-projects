@@ -19,6 +19,9 @@
 
 - [CloudLogOffline](https://github.com/myzinsky/cloudLogOffline) - App frontend for wavelog and cloudlog.
 - [wavelog](https://www.wavelog.org/) - Web based amateur radio logging software.
+- [FLEcli](https://github.com/on4kjm/FLEcli) - Command line utility for processing log files in the Fast Log Entry (FLE) format.
+- [FLE for VSCode](https://github.com/xssfox/flecode) - Syntax highlighting of the Fast Log Entry format for VSCode.
+- [FLE for Vim](https://git.sdf.org/odie/vim-fle-syntax) - Syntax highlighting of the Fast Log Entry format for Vim.
 
 ### Modes
 
