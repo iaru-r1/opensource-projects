@@ -4,6 +4,7 @@
 
 ## Project Categories
 
+- [Collaboration](#collaboration)
 - [Firmware](#firmware)
 - [Logging](#logging)
 - [Modes](#modes)
@@ -25,12 +26,15 @@
 
 ### Modes
 
+- [FreeDV](https://freedv.org/) - HF Digital Voice for Amateur Radio.
 - [gr-satellites](https://github.com/daniestevez/gr-satellites) - gr-satellites is a GNU Radio out-of-tree module encompassing a collection of telemetry decoders that supports many different Amateur satellites.
 - [M17](https://github.com/m17-project) - M17 digital mode using Codec2 for voice.
 
 ### Remote Control
 
+- [ElPiHat](https://github.com/HB9UF/ElPiHat) - A link transceiver hat for Raspberry Pi featuring a sound card, a DC/DC converter and some I/O circuitry. To be used for eg. svxlink.
 - [Hamlib](https://github.com/Hamlib/Hamlib) -  Ham radio control library for rigs, rotators, tuners, and, amplifiers.
+- [svxlink](https://github.com/sm0svx/svxlink) - Extensible and modular analog voice services system.
 - [trx-control](https://trx-control.msys.ch) - Transceiver control, extensible in Lua.
 
 ### Software Defined Radio
@@ -44,6 +48,10 @@
 ### Standards
 
 - [SigMF: The Signal Metadata Format](https://github.com/sigmf/SigMF) - A standard to describe dataset properties of captured signals.
+
+### Collaboration
+
+- [HedgeDoc](https://github.com/hedgedoc/hedgedoc) - A web-based, self-hosted collaborative markdown editor.
 
 ## Contribute
 
