@@ -46,6 +46,9 @@
 
 - [SigMF: The Signal Metadata Format](https://github.com/sigmf/SigMF) - A standard to describe dataset properties of captured signals.
 
+### Colaboration
+- [HedgeDoc](https://github.com/hedgedoc/hedgedoc) - Collaborative markdown editor. Open-source, web-based, self-hosted.
+
 ## Contribute
 
 Contributions welcome and wanted.  Please read the [contribution guidelines](contributing.md) first.
