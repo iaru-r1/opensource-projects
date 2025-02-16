@@ -27,6 +27,7 @@
 
 - [gr-satellites](https://github.com/daniestevez/gr-satellites) - gr-satellites is a GNU Radio out-of-tree module encompassing a collection of telemetry decoders that supports many different Amateur satellites.
 - [M17](https://github.com/m17-project) - M17 digital mode using Codec2 for voice.
+- [FreeDV](https://freedv.org/) - HF Digital Voice for Amateur Radio.
 
 ### Remote Control
 
