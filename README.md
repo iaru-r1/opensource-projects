@@ -36,7 +36,6 @@
 - [Hamlib](https://github.com/Hamlib/Hamlib) -  Ham radio control library for rigs, rotators, tuners, and, amplifiers.
 - [svxlink](https://github.com/sm0svx/svxlink) - Extensible and modular analog voice services system.
 - [trx-control](https://trx-control.msys.ch) - Transceiver control, extensible in Lua.
-- [webswitch](https://github.com/hb9gvd/webswitch) - Description how to build an ethernet controlled webswitch with cheap hw.
 
 ### Software Defined Radio
 
