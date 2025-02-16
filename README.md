@@ -4,17 +4,12 @@
 
 ## Project Categories
 
-- [Collaboration](#collaboration)
 - [Firmware](#firmware)
 - [Logging](#logging)
 - [Modes](#modes)
 - [Remote Control](#remote-control)
 - [Software Defined Radio](#software-defined-radio)
 - [Standards](#standards)
-
-### Collaboration
-
-- [HedgeDoc](https://github.com/hedgedoc/hedgedoc) - A web-based, self-hosted collaborative markdown editor.
 
 ### Firmware
 
