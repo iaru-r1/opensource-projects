@@ -12,6 +12,10 @@
 - [Software Defined Radio](#software-defined-radio)
 - [Standards](#standards)
 
+### Collaboration
+
+- [HedgeDoc](https://github.com/hedgedoc/hedgedoc) - A web-based, self-hosted collaborative markdown editor.
+
 ### Firmware
 
 - [OpenRTX](https://openrtx.org) - Firmware with M17 mode for digital ham radios.
@@ -48,10 +52,6 @@
 ### Standards
 
 - [SigMF: The Signal Metadata Format](https://github.com/sigmf/SigMF) - A standard to describe dataset properties of captured signals.
-
-### Collaboration
-
-- [HedgeDoc](https://github.com/hedgedoc/hedgedoc) - A web-based, self-hosted collaborative markdown editor.
 
 ## Contribute
 
