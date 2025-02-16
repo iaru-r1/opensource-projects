@@ -32,7 +32,7 @@
 
 ### Remote Control
 
-- [ElPiHat](https://github.com/HB9UF/ElPiHat) - A link transceiver hat for Raspberry Pi featuring a sound card, a DC/DC converter and some I/O circuitry. To be used for eg. svxlink.
+- [ElPiHat](https://github.com/HB9UF/ElPiHat) - A link transceiver hat for the Raspberry Pi featuring a sound card, a DC/DC converter, and, some I/O circuitry. To be used e.g. with svxlink.
 - [Hamlib](https://github.com/Hamlib/Hamlib) -  Ham radio control library for rigs, rotators, tuners, and, amplifiers.
 - [svxlink](https://github.com/sm0svx/svxlink) - Extensible and modular analog voice services system.
 - [trx-control](https://trx-control.msys.ch) - Transceiver control, extensible in Lua.
