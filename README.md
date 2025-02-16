@@ -10,7 +10,7 @@
 - [Remote Control](#remote-control)
 - [Software Defined Radio](#software-defined-radio)
 - [Standards](#standards)
-- [Colaboration](#colaboration)
+- [Collaboration](#collaboration)
 
 ### Firmware
 
@@ -26,13 +26,14 @@
 
 ### Modes
 
+- [FreeDV](https://freedv.org/) - HF Digital Voice for Amateur Radio.
 - [gr-satellites](https://github.com/daniestevez/gr-satellites) - gr-satellites is a GNU Radio out-of-tree module encompassing a collection of telemetry decoders that supports many different Amateur satellites.
 - [M17](https://github.com/m17-project) - M17 digital mode using Codec2 for voice.
-- [FreeDV](https://freedv.org/) - HF Digital Voice for Amateur Radio.
 
 ### Remote Control
 
 - [Hamlib](https://github.com/Hamlib/Hamlib) -  Ham radio control library for rigs, rotators, tuners, and, amplifiers.
+- [svxlink](https://github.com/sm0svx/svxlink) - Extensible and modular analog voice services system.
 - [trx-control](https://trx-control.msys.ch) - Transceiver control, extensible in Lua.
 
 ### Software Defined Radio
@@ -47,7 +48,7 @@
 
 - [SigMF: The Signal Metadata Format](https://github.com/sigmf/SigMF) - A standard to describe dataset properties of captured signals.
 
-### Colaboration
+### Collaboration
 - [HedgeDoc](https://github.com/hedgedoc/hedgedoc) - Collaborative markdown editor. Open-source, web-based, self-hosted.
 
 ## Contribute
