@@ -38,6 +38,7 @@
 
 ### Software Defined Radio
 
+- [codecserver-softmbe](https://github.com/knatterfunker/codecserver-softmbe) - Restores full decoding capabilities of digital voice modes in OpenWebRX.
 - [FISSURE](https://github.com/ainfosec/FISSURE) - A modular RF framework for signal analysis, reverse engineering, and security testing, featuring open-source tools and reference materials.
 - [GNURadio](https://www.gnuradio.org/) - A software development toolkit that provides signal processing blocks to implement software radios.
 - [IQEngine](https://github.com/IQEngine/IQEngine) - A web-based SDR toolkit for analyzing, processing, and sharing RF recordings.
