@@ -39,7 +39,7 @@
 
 ### Software Defined Radio
 
-- [codecserver-softmbe](codecserver-softmbe) - Restores full decoding capabilities of digital voice modes in OpenWebRX.
+- [codecserver-softmbe](https://github.com/knatterfunker/codecserver-softmbe) - Restores full decoding capabilities of digital voice modes in OpenWebRX.
 - [FISSURE](https://github.com/ainfosec/FISSURE) - A modular RF framework for signal analysis, reverse engineering, and security testing, featuring open-source tools and reference materials.
 - [GNURadio](https://www.gnuradio.org/) - A software development toolkit that provides signal processing blocks to implement software radios.
 - [Maia SDR](https://maia-sdr.org) - An open-source FPGA-based SDR project focusing on the ADALM Pluto.
