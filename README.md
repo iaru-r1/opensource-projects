@@ -44,7 +44,7 @@
 - [Maia SDR](https://maia-sdr.org) - An open-source FPGA-based SDR project focusing on the ADALM Pluto.
 - [OpenWebRX](https://www.openwebrx.de/) - Web-based SDR receiver.
 - [SatDump](https://github.com/SatDump/SatDump) - A general purpose satellite data processing software. It is a one-stop-shop that provides all the necessary stages to get from the satellite transmission to actual products.
-- [SDRangel](https://www.sdrangel.org/) - Versatile SDR software with many inbuilt modems, visualizations and analisis tools.
+- [SDRangel](https://www.sdrangel.org/) - Versatile SDR software with many built-in modems, visualizations and analysis tools.
 - [SDRPlusPlus](https://www.sdrpp.org/) - SDR++ is a cross-platform and open source SDR software with the aim of being bloat free and simple to use.
 
 ### Standards
