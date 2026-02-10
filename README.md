@@ -53,6 +53,12 @@
 
 - [SigMF: The Signal Metadata Format](https://github.com/sigmf/SigMF) - A standard to describe dataset properties of captured signals.
 
+### Education
+- [50ohm Page Generator](https://github.com/DARC-e-V/50ohm/) - A tool to generated HAM-Radio education websites.
+- [50ohm.de](https://github.com/DARC-e-V/50ohm-contents-dl) - German education contents
+- [50ohm VSCode Plugin](https://github.com/DARC-e-V/50ohm-vscode/) - A VSCode plugin to edit 50ohm contents
+- [50ohm Ansible](https://github.com/DARC-e-V/50ohm-ansible) - To setup a 50ohm server
+
 ## Contribute
 
 Contributions welcome and wanted.  Please read the [contribution guidelines](contributing.md) first.
