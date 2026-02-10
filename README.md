@@ -26,10 +26,10 @@
 
 ### Modes
 
-- [Fldigi suite] (https://sourceforge.net/projects/fldigi/files/) - Fldigi is a suite of software for soundcard data modes and message handling.
+- [Fldigi suite](https://sourceforge.net/projects/fldigi/files/) - Fldigi is a suite of software for soundcard data modes and message handling.
 - [FreeDV](https://freedv.org/) - HF Digital Voice for Amateur Radio.
 - [gr-satellites](https://github.com/daniestevez/gr-satellites) - gr-satellites is a GNU Radio out-of-tree module encompassing a collection of telemetry decoders that supports many different Amateur satellites.
-- [JS8call] (https://github.com/js8call/js8call) - JS8call is a variation of FT8 allowing keyboard to keyboard conversations, message handling and store and forward at Signal to Noise levels down to -20dB.
+- [JS8call](https://github.com/js8call/js8call) - JS8call is a variation of FT8 allowing keyboard to keyboard conversations, message handling and store and forward at Signal to Noise levels down to -20dB.
 - [M17](https://github.com/m17-project) - M17 digital mode using Codec2 for voice.
 
 ### Remote Control
