@@ -9,6 +9,7 @@
 - [Modes](#modes)
 - [Remote Control](#remote-control)
 - [Software Defined Radio](#software-defined-radio)
+- [Morse Code](#morse-code)
 - [Standards](#standards)
 - [Education](#education)
 
@@ -49,6 +50,10 @@
 - [SatDump](https://github.com/SatDump/SatDump) - A general purpose satellite data processing software. It is a one-stop-shop that provides all the necessary stages to get from the satellite transmission to actual products.
 - [SDRangel](https://www.sdrangel.org/) - Versatile SDR software with many built-in modems, visualizations and analysis tools.
 - [SDRPlusPlus](https://www.sdrpp.org/) - SDR++ is a cross-platform and open source SDR software with the aim of being bloat free and simple to use.
+
+### Morse Code
+
+- [Morse Code Studio](https://github.com/5B4AON/mcs) - A browser-based Morse code encoder, decoder and keyer.
 
 ### Standards
 
