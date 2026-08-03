@@ -32,6 +32,7 @@
 - [gr-satellites](https://github.com/daniestevez/gr-satellites) - gr-satellites is a GNU Radio out-of-tree module encompassing a collection of telemetry decoders that supports many different Amateur satellites.
 - [JS8call](https://github.com/js8call/js8call) - JS8call is a variation of FT8 allowing keyboard to keyboard conversations, message handling and store and forward at Signal to Noise levels down to -20dB.
 - [M17](https://github.com/m17-project) - M17 digital mode using Codec2 for voice.
+- [Mercury](https://github.com/rhizomatica/mercury) - HF modem providing ARQ data link and broadcast modes for store-and-forward email and file transfer over HF radio.
 
 ### Remote Control
 
