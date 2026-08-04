@@ -38,6 +38,7 @@
 
 - [ElPiHat](https://github.com/HB9UF/ElPiHat) - A link transceiver hat for the Raspberry Pi featuring a sound card, a DC/DC converter, and, some I/O circuitry. To be used e.g. with svxlink.
 - [Hamlib](https://github.com/Hamlib/Hamlib) -  Ham radio control library for rigs, rotators, tuners, and, amplifiers.
+- [HERMES](https://hermes.radio/) - HERMES is a complete system for control and automation of HF radios. Includes fully integrated Web-based UI for real-time remote radio control, and messages/email exchange.
 - [svxlink](https://github.com/sm0svx/svxlink) - Extensible and modular analog voice services system.
 - [trx-control](https://trx-control.msys.ch) - Transceiver control, extensible in Lua.
 
