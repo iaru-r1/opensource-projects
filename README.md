@@ -40,7 +40,6 @@
 - [Hamlib](https://github.com/Hamlib/Hamlib) -  Ham radio control library for rigs, rotators, tuners, and, amplifiers.
 - [HERMES](https://hermes.radio/) - HERMES is a complete system for control and automation of HF radios. Includes fully integrated Web-based UI for real-time remote radio control, and messages/email exchange.
 - [svxlink](https://github.com/sm0svx/svxlink) - Extensible and modular analog voice services system.
-- [trx-control](https://trx-control.msys.ch) - Transceiver control, extensible in Lua.
 
 ### Software Defined Radio
 
